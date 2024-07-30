@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "twitter-demo-app-7251b",
+    "staging": "x-demo-app"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
